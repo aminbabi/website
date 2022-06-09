@@ -1,0 +1,35 @@
+/* we can write comment */
+
+
+.center
+{
+    text-align:center ;
+    background-image: url("a2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+h1 {
+    color:rgb(7, 6, 0);
+    font-size: 12px;
+}
+.red{
+    color: blue;
+
+}
+    
+    .nav{
+        display: flex;
+        background-color:gray;
+        justify-content: space-evenly;
+        padding:10px;
+    }
+    #books {
+        color: rgb(6, 6, 6);
+    }
+    .image1
+    {
+        width: 100mm;
+    }
